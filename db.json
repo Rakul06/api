@@ -1,0 +1,25 @@
+{
+    "carDetails":[
+        {
+            "id":1,
+            "brand":"Honda",
+            "model":"City",
+            "img":"https://mcmscache.epapr.in/post_images/website_300/post_15089181/thumb.jpg"
+
+        },
+        {
+            "id":2,
+            "brand":"Honda",
+            "model":"City",
+            "img":"https://mcmscache.epapr.in/post_images/website_300/post_15089181/thumb.jpg"
+            
+        },
+        {
+            "id":3,
+            "brand":"BMW",
+            "model":"Civi",
+            "img":"https://mcmscache.epapr.in/post_images/website_300/post_15089181/thumb.jpg"
+            
+        }
+    ]
+}
